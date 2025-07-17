@@ -13,3 +13,6 @@ chown -R anand:anand /Db_backup
 
 
 exit the script 
+
+echo " new line" >> file.txt 
+
