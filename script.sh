@@ -11,3 +11,5 @@ fi
 
 chown -R anand:anand /Db_backup
 
+
+exit the script 
