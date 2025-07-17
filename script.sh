@@ -9,3 +9,5 @@ if [!f >= o ]then
 echo " copying the files...!"
 fi
 
+chown -R anand:anand /Db_backup
+
